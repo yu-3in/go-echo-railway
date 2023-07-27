@@ -103,4 +103,4 @@ Railway にデプロイする方法を説明します。
 - `MYSQLHOST` - `DB_HOST`
 - `MYSQLPASSWORD` - `DB_PASSWORD`
 - `MYSQLPORT` - `DB_PORT`
-- `MYSQLUSER` - `DB_USERNAME`
+- `MYSQLUSER` - `DB_USER`
